@@ -14,4 +14,6 @@ O desafio é construir esse componente de código QR e deixá-lo o mais próximo
 
 ## Como instalar
 
-Basta clonar o repositório em `git@github.com:gustavolarsen/qrcode-component.git` e abrir o arquivo `index.html` no seu navegador.
+Basta clonar o repositório em `git@github.com:gustavolarsen/qrcode-component.git` e abrir no seu VSCode.
+
+Você pode ver este projeto publicado em https://qrcode-component-hflqx8vkd-gustavolarsen.vercel.app/
